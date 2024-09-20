@@ -13,7 +13,7 @@ This repository contains code and resources for developing a computer vision pro
 
 ## Requirements
 
-- Python 3.10.x
+- Python 3.X.X
 - PyTorch
 - Other dependencies listed in `requirements.txt`
 
