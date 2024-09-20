@@ -35,7 +35,7 @@ This repository contains code and resources for developing a computer vision pro
 
     ```sh
     sudo apt-get install python3.10-venv
-    python3.10 -m venv venv
+    python3 -m venv venv
     .\venv\Scripts\activate  # On macOS/Linux use 'source venv/bin/activate'
     ```
 
